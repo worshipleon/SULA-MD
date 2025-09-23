@@ -13,6 +13,18 @@
     "BUTTON": {
       "description": "true or false",
       "required": false
+    },
+    "AUTO_REACT": {
+      "description": "true or false",
+      "required": false
+    },
+    "DELETEMSGSENDTO": {
+      "description": "Your Delete Massage Send Number",
+      "required": false
+    },
+    "ALLWAYS_OFFLINE": {
+      "description": "true or false",
+      "required": false
     } 
 },
 
