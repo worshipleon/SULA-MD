@@ -40,6 +40,8 @@
     "child_process":"1.0.2",
     "cheerio":"1.0.0-rc.12",
     "file-type":"16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "ffmpeg-static": "^5.1.0",
     "@dark-yasiya/yt-dl.js": "latest",
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
